@@ -1,0 +1,54 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    border-color: aqua;
+   text-align: center;
+   margin: 10%;
+   padding: 3%
+   font-family: 'Fuzzy Bubbles', 
+font-family: 'Moon Dance', 
+}
+h1{
+    font-size: 3rem;
+    margin: 10px;
+    font-weight: 600;
+    text-shadow: 3px 4px limegreen;
+}
+h2{
+    font-size: 1.8rem;
+    margin: 10px;
+    font-weight: 600;
+   
+}
+
+.player1{
+    font-size: 2rem;
+    margin: 20px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.play{
+    display: inline-block;
+    margin: 20px;
+}
+
+
+.mybtn{
+    width: 15%;
+    border-radius: 10px;
+    height: 40px;
+    background-color: blue;
+}
